@@ -15,16 +15,16 @@ Given supply disruptions due to recent global events such as the Covid 19 pandem
 
 **Below is the table of contents for this repository:**
 
-1) requirements.txt
+1) python_requirements.txt
 - a text file that can be used to recreate the python environment used for this project
 - bash code to run the file available within the file (open in plain text editor)
 
 
-2) Andrew_Yew_capstone_final_report.pdf
+2) summary_report.pdf
 - Contains a 3 page written report describing the entire project at a high non-technical level
 
 
-3) Andrew_Yew_final_presentation.pdf
+3) presentation.pdf
 - Contains a PDF version of the final presentation which is a high level summary of the project to be presented in approximately 5 minutes.
 
 
@@ -45,3 +45,12 @@ Given supply disruptions due to recent global events such as the Covid 19 pandem
 
 8) model folder
 - final model stored as a pickle file
+
+9) streamlit_data folder
+- data for the application hosted on Streamlit
+
+10) recipe_classifier.py
+- a Streamlit app built to test the trained model as a minimum viable product
+
+11) requirements.txt
+- a file containing package requirements to be read by the Streamlit web service
