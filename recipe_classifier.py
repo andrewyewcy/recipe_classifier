@@ -28,9 +28,9 @@ with col1.container():
     subcol1.subheader('Recipe Classifier by Andrew Yew')
     subcol2.image('images/allrecipes.png')
 
-### BAR CHART FOR TAGS ####################################################################################################
+### BAR CHART FOR TAGS ###
 # Load tags data
-tags_df = joblib.load('streamlit_data/tags_df.pkl')
+tags_df = pd.read_csv('streamlit_data/tags_df.csv')
 
 # Create DataFrame for plot
 plot_df = tags_df.head(5)
@@ -71,61 +71,14 @@ col1.plotly_chart(fig,
                   sharing = "streamlit",
                   theme = None)
 
-### Create scatter plot of data ###########################################################################################
-# Excluded for now because processed_df is 399MB in size, larger than the github file size limit of 100MB
-# temp_df = joblib.load('data/processed_df.pkl')
-# temp_df = temp_df[['recipe_title', 
-#          'average_rating', 
-#          'recipe_worth_it',
-#          'number_of_ratings',
-#          'number_of_reviews']].copy()
-# temp_df['log_number_of_ratings'] = np.log(temp_df['number_of_ratings']+1)
-# temp_df['log_number_of_reviews'] = np.log(temp_df['number_of_reviews']+1)
-# temp_df['recipe_worth_it'] = ["worth it" if recipe == 1 else "not worth it" for recipe in temp_df['recipe_worth_it'].tolist()]
-# fig = px.scatter(temp_df,
-#                  x = "log_number_of_ratings",
-#                  y = "log_number_of_reviews",
-#                  color = "recipe_worth_it",
-#                  labels = {'recipe_worth_it': 'Target Feature',
-#                           'log_number_of_reviews':'LOG Number of Reviews',
-#                           'log_number_of_ratings':'LOG Number of Ratings'
-#                          },
-#                  opacity = 0.5,
-#                  hover_name = "recipe_title",
-#                  hover_data = {"recipe_worth_it" : False,
-#                                "log_number_of_reviews" : False,
-#                                "log_number_of_ratings" : False,
-#                                "average_rating":True,
-#                                "number_of_ratings":True,
-#                                "number_of_reviews":True},
-#                  )
-
-# fig.update_layout(
-#     legend=dict(
-#         x=0.05,
-#         y=.9,
-#         traceorder="normal",
-#         font=dict(
-#             family="sans-serif",
-#             size=12,
-#             color="black"
-#         ),
-#     )
-# )
-
-# col1.plotly_chart(fig, 
-#                   use_container_width = True, 
-#                   sharing = "streamlit",
-#                   theme = None)
-
-### MODEL #################################################################################################################
+### MODEL ###
 # Load models and scalers
 model = joblib.load('model/final_model.pkl')
 scaler = joblib.load('model/final_robust_scaler.pkl')
 
 # Load data
-X_t = joblib.load('streamlit_data/X_t_for_streamlit.pkl')
-processed_df = joblib.load('streamlit_data/processed_data_for_streamlit.pkl')
+X_t = pd.read_csv('streamlit_data/X_t_for_streamlit.csv')
+processed_df = pd.read_csv('streamlit_data/processed_data_for_streamlit.csv')
 processed_df.reset_index(drop = True, inplace = True)
 
 
