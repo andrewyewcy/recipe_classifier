@@ -1,52 +1,23 @@
-### IMPORT REQUIRED PACKAGES ###########################################################################################
+### IMPORT REQUIRED PACKAGES ###
 # Packages for processing data
 import numpy as np
 import pandas as pd
 
 # Packages for plotting
-#import matplotlib.pyplot as plt
-#import seaborn as sns
 import streamlit as st
 import plotly.express as px
 
 # Packages for pickling and loading pickle files.
 import joblib 
-#import time
 
-# # Packages for statistical testing
-# from scipy import stats # chi-square test
-
-# # Packages for data preprocessing
-# from sklearn.impute import KNNImputer
+# Packages for data preprocessing
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, MinMaxScaler, RobustScaler
-# from sklearn.decomposition import PCA
-
-# # Packages for natural language processing
-# import nltk # Natural Language Tool Kit
-# nltk.download('stopwords')
-# from nltk.corpus import stopwords
-# import string
-# from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 # Packages for models
 from sklearn.linear_model import LogisticRegression
-# from sklearn.neighbors import KNeighborsClassifier
-# from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-# from xgboost import XGBClassifier
 
-# Packages for model hyperparameter optimization
-# from sklearn.model_selection import train_test_split, GridSearchCV
-# #from sklearn.model_selection import cross_val_score
-# from sklearn.compose import ColumnTransformer
-# from sklearn.pipeline import Pipeline # To set up a temporary directory for caching pipeline results
-# from tempfile import mkdtemp
 
-# Packages for model evaluation
-# from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-# from sklearn.metrics import classification_report
-# import shap
-
-### INITIAL SETTING OF STREAMLIT APP #######################################################################################
+### INITIAL SETTING OF STREAMLIT APP ###
 st.set_page_config(layout="wide", page_title="Recipe Classifier")
 
 #st.title('Recipe Classifier')
