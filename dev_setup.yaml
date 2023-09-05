@@ -1,0 +1,13 @@
+# This docker-compose file will create the environments and the containers needed for project development
+
+version: '3.8' # Specify version of docker-compose for backwards compatability
+
+services: #Define services (docker containers) to run
+  dev:
+    build: ./01_dev_requirements
+    restart: always
+    ports:
+      - '10000:8888' # Port to access notebook
+      - '4040:4040'   # Port to access SparkUI (Spark Monitoring and Instrumentation UI)
+    volumes:
+      - ${PWD}:/home/jovyan/work

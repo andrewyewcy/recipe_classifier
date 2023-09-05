@@ -1,0 +1,15 @@
+# For connection to mongodb
+pymongo
+
+# Packages for natural language processing
+nltk
+
+# packages for connection to AWS S3 bucket
+awscli
+
+# packages for interactive plotting
+plotly
+
+# packages for presentation automation
+openpyxl
+python-pptx
