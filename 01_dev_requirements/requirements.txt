@@ -6,6 +6,8 @@ nltk
 
 # packages for connection to AWS S3 bucket
 awscli
+boto3
+s3fs
 
 # packages for interactive plotting
 plotly
