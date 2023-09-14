@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def plot_histogram(df, col, df_name):
+def plot_histogram(df, col, df_name, save_dir):
     """
     =======
     PURPOSE
@@ -21,6 +21,7 @@ def plot_histogram(df, col, df_name):
     df      : a pandas DataFrame that contains numerical columns.
     col     : a string containing the name of the numerical column for which to plot histograms. 
     df_name : a string containing the name of the input dataframe, used for saving image name
+    save_dir: a string containing the directory in which to save images
 
     ======
     OUTPUT
@@ -80,7 +81,7 @@ def plot_histogram(df, col, df_name):
     sns.despine()
     plt.show()
     plt.savefig(
-        f"assets/images/histogram_{df_name}_{col}.png",
+        f"{save_dir}/{time.strftime('%Y%m%d-%H%M')}_histogram_{df_name}_{col}.png",
         format = "png",
         dpi = 300
         )
