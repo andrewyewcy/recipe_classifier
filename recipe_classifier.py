@@ -32,7 +32,7 @@ with col1.container():
     # Set stock icon
     # <a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by photo3idea_studio - Flaticon</a>
     subcol2.image(
-        'assets/images/recipe.png',
+        '22_assets/images/recipe.png',
         width = 135
     )
 
@@ -55,12 +55,12 @@ col1.write("[GitHub repository for project](https://github.com/andrewyewcy/recip
 
 ### MODEL ###
 # Load final model and scaler
-model  = joblib.load('model/final_model.pkl')
-scaler = joblib.load('model/final_robust_scaler.pkl')
+model  = joblib.load('13_models/final_model.pkl')
+scaler = joblib.load('13_models/final_robust_scaler.pkl')
 
 # Load data
-X_t          = pd.read_csv('streamlit_data/X_t_for_streamlit.csv')
-processed_df = pd.read_csv('streamlit_data/processed_data_for_streamlit.csv', index_col = False)
+X_t          = pd.read_csv('14_streamlit_data/X_t_for_streamlit.csv')
+processed_df = pd.read_csv('14_streamlit_data/processed_data_for_streamlit.csv', index_col = False)
 
 col2.subheader(f"Model Demo")
 
