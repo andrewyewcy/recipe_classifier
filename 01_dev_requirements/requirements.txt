@@ -5,12 +5,14 @@ pymongo
 nltk
 
 # packages for connection to AWS S3 bucket
+python-dotenv
 awscli
 boto3
 s3fs
 
 # packages for interactive plotting
 plotly
+adjustText
 
 # packages for presentation automation
 openpyxl

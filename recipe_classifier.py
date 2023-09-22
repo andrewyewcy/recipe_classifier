@@ -32,7 +32,7 @@ with col1.container():
     # Set stock icon
     # <a href="https://www.flaticon.com/free-icons/recipe" title="recipe icons">Recipe icons created by photo3idea_studio - Flaticon</a>
     subcol2.image(
-        'images/recipe.png',
+        'assets/images/recipe.png',
         width = 135
     )
 
