@@ -3,15 +3,15 @@ RECIPE CLASSIFIER<br>
 #################<br>
 
 Author        : Andrew Yew<br>
-Date initiated: 2023-04-11<br>
-[LinkedIn](https://www.linkedin.com/in/andrewyewcy/) [Website/Blog](https://andrewyewcy.com/)
+Contact: [LinkedIn](https://www.linkedin.com/in/andrewyewcy/) [Website](https://andrewyewcy.com/)
 
 **Brief Introduction:**<br>
 Given supply disruptions due to recent global events such as the Covid 19 pandemic and the war in Ukraine, Canadian food prices have risen at an alarming rate of 11% year on year in 2022, putting pressure on the average consumer’s budget. This combined with the benefits of home cooking has undoubtedly led to many busy working Canadians to cook more at home. However, assuming a busy work life, many adults need a way to ensure whatever they choose to cook is worth the precious time and effort after work. The recipe classifier seeks to address this issue for busy working adults by classifying recipes as worth the time and effort or not worth it, given the different elements available in online food recipes. Natural Language Processing (NLP) and other techniques were applied to 33,691 food recipes gathered from allrecipes.com to train a logistic regression model, achieving a final accuracy of 76% in determining if a recipe is worth it.
 
 **Access the Web-app here:**<br>
 Streamlit Web-app: [Link](https://andrewyewcy-recipe-classifier-recipe-classifier-ojen7a.streamlit.app)<br>
-![030_regression_modelling_001.png](../22_assets/images/030_regression_modelling_001.png){:class="img-responsive"}
+The web-app allows users to select recipes, and generates a real time prediction from the model.
+![recipe_classifier_webapp.png](/22_assets/images/recipe_classifier_webapp.png){:class="img-responsive"}
 
 **Presentation and Report**<br>
 A visual [presentation deck](https://github.com/andrewyewcy/recipe_classifier/blob/main/22_assets/presentations/presentation.pdf) and a short [business report](https://github.com/andrewyewcy/recipe_classifier/blob/main/22_assets/presentations/summary_report.pdf) are available in the respective links.
@@ -52,14 +52,11 @@ The classifier is currently packaged as a Streamlit application and hosted on St
 7)  `21_notebooks`
 - Contains all Jupyter notebooks used for data processing and model training
 - Below are core notebooks of the project:
-    - `010_data_acquisition.ipynb`
-        - This notebook contains all code and details required to scrape recipe data from allrecipes.com
-
-    - `020_eda_feature_engineering.ipynb`
-        - This notebook details all exploratory data analysis, data processing, and feature engineering before the modelling stage.
-
-    - `030_modelling.ipynb`
-        - This notebook records all experimental procedure and results regarding modelling decisions and model training. Also includes final preprocessing steps such as Term Frequency-Inverse Document Frequency(TF-IDF) vectorization, KNN imputer, One Hot Encoding (OHE), and train test split.
+    - `010_data_acquisition.ipynb`: Web-scraping process to gather list of recipe urls and data from each url.
+    - `011_recipe_labels_upload_data_to_aws_s3.ipynb`: Process data from 010 and upload to AWS S3 bucket
+    - `020_eda_feature_engineering.ipynb`: This notebook details all exploratory data analysis, data processing, and feature engineering before the modelling stage.
+    - `021_recipe_labels_analysis_count_vectorizer`: Bivariate analysis of recipe label frequencies and ratings.
+    - `030_modelling.ipynb`: This notebook records all experimental procedure and results regarding modelling decisions and model training. Also includes final preprocessing steps such as Term Frequency-Inverse Document Frequency(TF-IDF) vectorization, KNN imputer, One Hot Encoding (OHE), and train test split.
 
 8) `22_assets`
 - Contains all assets for the project. For example: images, presentations, reports
@@ -69,3 +66,9 @@ The classifier is currently packaged as a Streamlit application and hosted on St
 
 9) `24_testing`
 - Contains all notebooks and code in development.
+
+10) `30_automation` *in construction*
+- contains Python files and Makefile for automation processes
+    - `get_data.py`: Given an allrecipe url, webscrape and convert data into DataFrame
+    - `preprocessing.py`: Preprocess data from `get_data.py` for prediction
+    - `prediction.py`: Feds output from `preprocessing.py` into final model for prediction
