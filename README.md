@@ -10,8 +10,8 @@ Date initiated: 2023-04-11<br>
 Given supply disruptions due to recent global events such as the Covid 19 pandemic and the war in Ukraine, Canadian food prices have risen at an alarming rate of 11% year on year in 2022, putting pressure on the average consumer’s budget. This combined with the benefits of home cooking has undoubtedly led to many busy working Canadians to cook more at home. However, assuming a busy work life, many adults need a way to ensure whatever they choose to cook is worth the precious time and effort after work. The recipe classifier seeks to address this issue for busy working adults by classifying recipes as worth the time and effort or not worth it, given the different elements available in online food recipes. Natural Language Processing (NLP) and other techniques were applied to 33,691 food recipes gathered from allrecipes.com to train a logistic regression model, achieving a final accuracy of 76% in determining if a recipe is worth it.
 
 **Access the Web-app here:**<br>
-Streamlit Web-app: [Link](https://andrewyewcy-recipe-classifier-recipe-classifier-ojen7a.streamlit.app)
-![030_regression_modelling_001.png](../assets/images/030_regression_modelling_001.png){:class="img-responsive"}
+Streamlit Web-app: [Link](https://andrewyewcy-recipe-classifier-recipe-classifier-ojen7a.streamlit.app)<br>
+![030_regression_modelling_001.png](../22_assets/images/030_regression_modelling_001.png){:class="img-responsive"}
 
 **Presentation and Report**<br>
 A visual [presentation deck](https://github.com/andrewyewcy/recipe_classifier/blob/main/22_assets/presentations/presentation.pdf) and a short [business report](https://github.com/andrewyewcy/recipe_classifier/blob/main/22_assets/presentations/summary_report.pdf) are available in the respective links.
