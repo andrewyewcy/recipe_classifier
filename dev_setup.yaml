@@ -3,8 +3,16 @@
 version: '3.8' # Specify version of docker-compose for backwards compatability
 
 services: #Define services (docker containers) to run
+  sel:
+    image: selenium/standalone-chrome:118.0
+    shm_size: 2gb
+    ports:
+      - '4444:4444'
+      - '7900:7900'
   dev:
     build: ./01_dev_requirements
+    depends_on: 
+      - sel
     restart: always
     ports:
       - '10000:8888' # Port to access notebook
