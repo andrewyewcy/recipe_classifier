@@ -74,7 +74,7 @@ Below are core notebooks of the project:
 - `22_assets`
 Contains all assets for the project. For example: images, presentations, reports
 
-`23_logs` *in construction*
+- `23_logs` *in construction*
 Contains all log files, such as those generated during model training
 
 - `24_testing`
