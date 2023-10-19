@@ -1,6 +1,6 @@
 # RECIPE CLASSIFIER
 
-Author        : Andrew Yew<br>
+Author: Andrew Yew<br>
 Contact: [LinkedIn](https://www.linkedin.com/in/andrewyewcy/) [Website](https://andrewyewcy.com/)
 
 ## Brief Introduction
@@ -17,6 +17,13 @@ A visual [presentation deck](https://github.com/andrewyewcy/recipe_classifier/bl
 ## Environments and Setup
 The classifier is currently packaged as a Streamlit application and hosted on Streamlit cloud. A transition is being made to port all past code from running on Anaconda environments to packaged Docker containers. That being said, Docker and Docker-compose installed machines are required to ensure smooth setup and replication of repo environments.
 
+**Setup instructions**<br>
+1. Installed GIT, Docker and Docker-compose on local machine. 
+2. Clone the git repository
+3. In terminal, go to directory of repository, then run:
+   - `app_setup.yaml` for setup of production environment (Streamlit app)
+   - `dev_setup.yaml` for setup of development environment, which includes Streamlit app, Jupyter Hub, phpMyAdmin, and MySQL server
+
 - For the app in production on Streamlit cloud: 
     - `requirements.txt` provides all the required packages.
     - `recipe_classifier.py` Python script containing production app
@@ -27,48 +34,54 @@ The classifier is currently packaged as a Streamlit application and hosted on St
         - Container 1 `sel`: contains Selenium with Google Chrome installed for web-scraping
         - Container 2 `dev`: contains Pyspark notebook with most machine learning packages installed 
 
+## Tools involved
+- Docker
+- Python
+- Streamlit
+- Flask
+
 ## Repository Table of Contents
-1) `01_dev_requirements`
-- contains Dockerfile to recreate Docker containers for running all notebooks
-- required by `dev_setup.yaml` when running docker-compose
+- `01_dev_requirements`
+Contains Dockerfile to recreate Docker containers for running all notebooks.
+Required by `dev_setup.yaml` when running docker-compose.
 
-2) `02_app_requirements` *in construction*
-- contains Dockerfile to recreate Docker container for application in production
-- required by `app_setup.yaml` when running docker-compose
+- `02_app_requirements` *in construction*
+Contains Dockerfile to recreate Docker container for application in production
+Required by `app_setup.yaml` when running docker-compose
 
-3) `11_raw_data` *not available on GitHub*
-- the raw data web-scraped from Allrecipes.com between 2023 FEB and 2023 MAR
-- for access, please contact the owner of this repo
+- `11_raw_data` *not available on GitHub*
+The raw data web-scraped from Allrecipes.com between 2023 FEB and 2023 MAR
+For access, please contact the owner of this repo
 
-4) `12_processed_data` *in construction*
-- contains data that has been processed for analysis and machine learning use
+- `12_processed_data` *in construction*
+Contains data that has been processed for analysis and machine learning use
 
-5) `13_models`
-- contains the trained machine learning models used throughout development and production
+- `13_models`
+Contains the trained machine learning models used throughout development and production
 
-6) `14_streamlit_data` *to be merged into processed data*
-- Currently contains the processed data used by the model in production on Streamlit cloud
+- `14_streamlit_data` *to be merged into processed data*
+Currently contains the processed data used by the model in production on Streamlit cloud
 
-7)  `21_notebooks`
-- Contains all Jupyter notebooks used for data processing and model training
-- Below are core notebooks of the project:
+- `21_notebooks`
+Contains all Jupyter notebooks used for data processing and model training
+Below are core notebooks of the project:
     - `010_data_acquisition.ipynb`: Web-scraping process to gather list of recipe urls and data from each url.
     - `011_recipe_labels_upload_data_to_aws_s3.ipynb`: Process data from 010 and upload to AWS S3 bucket
     - `020_eda_feature_engineering.ipynb`: This notebook details all exploratory data analysis, data processing, and feature engineering before the modelling stage.
     - `021_recipe_labels_analysis_count_vectorizer`: Bivariate analysis of recipe label frequencies and ratings.
     - `030_modelling.ipynb`: This notebook records all experimental procedure and results regarding modelling decisions and model training. Also includes final preprocessing steps such as Term Frequency-Inverse Document Frequency(TF-IDF) vectorization, KNN imputer, One Hot Encoding (OHE), and train test split.
 
-8) `22_assets`
-- Contains all assets for the project. For example: images, presentations, reports
+- `22_assets`
+Contains all assets for the project. For example: images, presentations, reports
 
-9) `23_logs` *in construction*
-- contains all log files, such as those generated during model training
+`23_logs` *in construction*
+Contains all log files, such as those generated during model training
 
-9) `24_testing`
-- Contains all notebooks and code in development.
+- `24_testing`
+Contains all notebooks and code in development.
 
-10) `30_automation` *in construction*
-- contains Python files and Makefile for automation processes
+- `30_automation` *in construction*
+Contains Python files and Makefile for automation processes
     - `get_data.py`: Given an allrecipe url, webscrape and convert data into DataFrame
     - `preprocessing.py`: Preprocess data from `get_data.py` for prediction
     - `prediction.py`: Feds output from `preprocessing.py` into final model for prediction
