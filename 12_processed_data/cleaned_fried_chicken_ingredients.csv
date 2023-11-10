@@ -1,0 +1,174 @@
+recipe_url,recipe_name,ing_amt,ing_uom,ing_name,ing_org,ing_stemmed,ing_amt_metric,ing_uom_metric
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,4.0,pound,chicken,"1 (4 pound) chicken, cut into pieces","['4', 'pound', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,1.0,cup,buttermilk,1 cup buttermilk,"['cup', 'buttermilk']",236.58824,mL
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,2.0,cup,flour,2 cups all-purpose flour for coating,"['cup', 'allpurpose', 'flour', 'coating']",473.17648,mL
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,,,salt,salt and pepper to taste,"['pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/,Crispy Fried Chicken,2.0,quart,vegetable oil,2 quarts vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",1892.7059,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.0,quart,vegetable oil,1 quart vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",946.35295,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,4.333,cup,flour,"4.333 cups all-purpose flour, divided","['cup', 'allpurpose', 'flour', 'divided']",1025.13684392,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.5,tablespoon,garlic,1.5 tablespoons garlic salt,"['tablespoon', 'garlic', 'salt']",22.1801475,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.0,tablespoon,black pepper,1 tablespoon ground black pepper,"['tablespoon', 'ground', 'black', 'pepper']",14.786765,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.0,tablespoon,paprika,1 tablespoon paprika,"['tablespoon', 'paprika']",14.786765,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,0.5,teaspoon,poultry seasoning,0.5 teaspoon poultry seasoning,"['teaspoon', 'poultry', 'seasoning']",2.46446075,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.5,cup,beer,"1.5 cups beer, or as needed","['cup', 'beer', 'needed']",354.88236,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,2.0,piece,egg,"2 egg yolks, beaten","['egg', 'yolk', 'beaten']",2.0,pc
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,1.0,teaspoon,salt,1 teaspoon salt,"['teaspoon', 'salt']",4.9289215,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,0.25,teaspoon,black pepper,0.25 teaspoon ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",1.232230375,mL
+https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/,Triple-Dipped Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into pieces","['3', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,4.0,pound,chicken,"1 (3 1/2) pound chicken, cut into 8 pieces","['3', '12', 'pound', 'chicken', 'cut', '8', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,1.0,teaspoon,black pepper,1 teaspoon black pepper,"['teaspoon', 'black', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,1.0,teaspoon,salt,1 teaspoon salt,"['teaspoon', 'salt']",4.9289215,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,white pepper,0.5 teaspoon white pepper,"['teaspoon', 'white', 'pepper']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.25,teaspoon,rosemary,0.25 teaspoon dried rosemary,"['teaspoon', 'dried', 'rosemary']",1.232230375,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.25,teaspoon,thyme,0.25 teaspoon ground thyme,"['teaspoon', 'ground', 'thyme']",1.232230375,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.25,teaspoon,oregano,0.25 teaspoon dried oregano,"['teaspoon', 'dried', 'oregano']",1.232230375,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.25,teaspoon,sage,0.25 teaspoon dried sage,"['teaspoon', 'dried', 'sage']",1.232230375,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.25,teaspoon,cayenne pepper,0.25 teaspoon cayenne pepper,"['teaspoon', 'cayenne', 'pepper']",1.232230375,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,2.0,cup,buttermilk,2 cups buttermilk,"['cup', 'buttermilk']",473.17648,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,2.0,cup,flour,2 cups flour,"['cup', 'flour']",473.17648,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,1.0,teaspoon,salt,1 teaspoon salt,"['teaspoon', 'salt']",4.9289215,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,paprika,0.5 teaspoon paprika,"['teaspoon', 'paprika']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,cayenne pepper,0.5 teaspoon cayenne pepper,"['teaspoon', 'cayenne', 'pepper']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,garlic powder,0.5 teaspoon garlic powder,"['teaspoon', 'garlic', 'powder']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,white pepper,0.5 teaspoon white pepper,"['teaspoon', 'white', 'pepper']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,0.5,teaspoon,onion powder,0.5 teaspoon onion powder,"['teaspoon', 'onion', 'powder']",2.46446075,mL
+https://www.allrecipes.com/recipe/220128/chef-johns-buttermilk-fried-chicken/,Chef John&#39;s Buttermilk Fried Chicken,2.5,quart,peanut oil,2.5 quarts peanut oil for frying,"['quart', 'peanut', 'oil', 'frying']",2365.882375,mL
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,3.0,cup,flour,3 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",709.76472,mL
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,5.0,tablespoon,salt,5 tablespoons seasoned salt,"['tablespoon', 'seasoned', 'salt']",73.933825,mL
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,3.0,tablespoon,garlic powder,3 tablespoons garlic powder,"['tablespoon', 'garlic', 'powder']",44.360295,mL
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,,,salt,salt and pepper to taste,"['pepper', 'taste']",26.93496722474227,g
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,4.0,piece,egg,"4 large eggs, beaten","['large', 'egg', 'beaten']",4.0,pc
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,8.0,pound,chicken,"2 (2 to 3 pound) whole chickens, cut into pieces","['2', '3', 'pound', 'whole', 'chicken', 'cut', 'piece']",3628.73864,g
+https://www.allrecipes.com/recipe/8970/millie-pasquinellis-fried-chicken/,Millie Pasquinelli&#39;s Fried Chicken,1.0,quart,vegetable oil,1 quart vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",946.35295,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,1.0,cup,flour,1 cup all-purpose flour,"['cup', 'allpurpose', 'flour']",236.58824,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,,,salt,salt to taste,['taste'],13.467483612371135,g
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,,,salt,ground black pepper to taste,"['black', 'pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,1.0,teaspoon,garlic powder,1 teaspoon garlic powder,"['teaspoon', 'garlic', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,1.0,teaspoon,onion powder,1 teaspoon onion powder,"['teaspoon', 'onion', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,,teaspoon,cayenne pepper,1/2 teaspoon cayenne pepper (optional),"['teaspoon', 'cayenne', 'pepper', 'optional']",0.5,mL
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into pieces","['3', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/8635/southern-fried-chicken/,Southern Fried Chicken,1.0,quart,vegetable oil,1 quart vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",946.35295,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,0.5,cup,milk,0.5 cup milk,"['cup', 'milk']",118.29412,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,piece,egg,"1 egg, beaten","['egg', 'beaten']",1.0,pc
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,cup,flour,1 cup all-purpose flour,"['cup', 'allpurpose', 'flour']",236.58824,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,2.0,teaspoon,garlic,2 teaspoons garlic salt,"['teaspoon', 'garlic', 'salt']",9.857843,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,teaspoon,black pepper,1 teaspoon ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,0.25,teaspoon,poultry seasoning,0.25 teaspoon poultry seasoning,"['teaspoon', 'poultry', 'seasoning']",1.232230375,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,4.0,pound,chicken,"1 (4 pound) whole chicken, cut into pieces","['4', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,3.0,cup,vegetable oil,3 cups vegetable oil,"['cup', 'vegetable', 'oil']",709.76472,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,cup,chicken broth,1 cup chicken broth,"['cup', 'chicken', 'broth']",236.58824,mL
+https://www.allrecipes.com/recipe/15375/fried-chicken-with-creamy-gravy/,Fried Chicken with Creamy Gravy,1.0,cup,milk,1 cup milk,"['cup', 'milk']",236.58824,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into 6 pieces","['3', 'pound', 'whole', 'chicken', 'cut', '6', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.0,piece,egg,"2 eggs, beaten","['egg', 'beaten']",2.0,pc
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,12.0,ounce,milk,1 (12 fluid ounce) can evaporated milk,"['12', 'fluid', 'ounce', 'evaporated', 'milk']",354.882348,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.0,teaspoon,salt,2 teaspoons salt,"['teaspoon', 'salt']",9.857843,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.0,teaspoon,black pepper,2 teaspoons ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",9.857843,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.0,teaspoon,garlic powder,2 teaspoons garlic powder,"['teaspoon', 'garlic', 'powder']",9.857843,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.0,teaspoon,onion powder,2 teaspoons onion powder,"['teaspoon', 'onion', 'powder']",9.857843,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,2.5,cup,flour,2.5 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",591.4706,mL
+https://www.allrecipes.com/recipe/8802/tanyas-louisiana-southern-fried-chicken/,Tanya&#39;s Louisiana Southern Fried Chicken,1.5,cup,vegetable oil,1.5 cups vegetable oil for frying,"['cup', 'vegetable', 'oil', 'frying']",354.88236,mL
+https://www.allrecipes.com/recipe/8717/deep-south-fried-chicken/,Deep South Fried Chicken,1.0,cup,shortening,1 cup shortening,"['cup', 'shortening']",236.58824,mL
+https://www.allrecipes.com/recipe/8717/deep-south-fried-chicken/,Deep South Fried Chicken,2.0,cup,flour,2 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",473.17648,mL
+https://www.allrecipes.com/recipe/8717/deep-south-fried-chicken/,Deep South Fried Chicken,1.0,teaspoon,salt,1 teaspoon salt,"['teaspoon', 'salt']",4.9289215,mL
+https://www.allrecipes.com/recipe/8717/deep-south-fried-chicken/,Deep South Fried Chicken,1.0,teaspoon,black pepper,1 teaspoon ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/8717/deep-south-fried-chicken/,Deep South Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into pieces","['3', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,2.0,cup,buttermilk,2 cups buttermilk,"['cup', 'buttermilk']",473.17648,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,tablespoon,mustard,1 tablespoon Dijon mustard,"['tablespoon', 'dijon', 'mustard']",14.786765,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,teaspoon,salt,1 teaspoon salt,"['teaspoon', 'salt']",4.9289215,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,teaspoon,black pepper,1 teaspoon ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,teaspoon,cayenne pepper,1 teaspoon cayenne pepper,"['teaspoon', 'cayenne', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,4.0,pound,chicken,"1 whole chicken, cut into pieces","['whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,2.0,cup,flour,2 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",473.17648,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,tablespoon,baking powder,1 tablespoon baking powder,"['tablespoon', 'baking', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,tablespoon,garlic powder,1 tablespoon garlic powder,"['tablespoon', 'garlic', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,1.0,tablespoon,onion powder,1 tablespoon onion powder,"['tablespoon', 'onion', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/178809/southern-style-buttermilk-fried-chicken/,Southern-Style Buttermilk Fried Chicken,5.0,cup,vegetable oil,5 cups vegetable oil for frying,"['cup', 'vegetable', 'oil', 'frying']",1182.9412,mL
+https://www.allrecipes.com/recipe/8836/fried-chicken/,Fried Chicken,4.0,pound,chicken,"1 (4 pound) chicken, cut into pieces","['4', 'pound', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/8836/fried-chicken/,Fried Chicken,,,salt,salt and pepper to taste,"['pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/8836/fried-chicken/,Fried Chicken,1.5,cup,flour,1.5 cups all-purpose flour for coating,"['cup', 'allpurpose', 'flour', 'coating']",354.88236,mL
+https://www.allrecipes.com/recipe/8836/fried-chicken/,Fried Chicken,2.0,quart,vegetable oil,2 quarts vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",1892.7059,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,3.0,cup,flour,3 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",709.76472,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,tablespoon,salt,1 tablespoon seasoned salt,"['tablespoon', 'seasoned', 'salt']",14.786765,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,tablespoon,garlic powder,1 tablespoon garlic powder,"['tablespoon', 'garlic', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,tablespoon,onion powder,1 tablespoon onion powder,"['tablespoon', 'onion', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,tablespoon,black pepper,1 tablespoon coarse ground black pepper,"['tablespoon', 'coarse', 'ground', 'black', 'pepper']",14.786765,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,2.0,piece,egg,2 eggs,['egg'],2.0,pc
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,4.0,cup,buttermilk,4 cups buttermilk,"['cup', 'buttermilk']",946.35296,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,cup,barbeque sauce,1 cup barbeque sauce,"['cup', 'barbeque', 'sauce']",236.58824,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,2.0,tablespoon,worcestershire sauce,2 tablespoons Worcestershire sauce,"['tablespoon', 'worcestershire', 'sauce']",29.57353,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,1.0,tablespoon,steak sauce,1 tablespoon steak sauce,"['tablespoon', 'steak', 'sauce']",14.786765,mL
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into pieces","['3', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/57676/a-southern-fried-chicken/,A Southern Fried Chicken,2.0,cup,vegetable oil,2 cups oil for frying,"['cup', 'oil', 'frying']",473.17648,mL
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,4.0,pound,chicken,"1 (4 pound) whole chicken, cut into pieces","['4', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,,,salt,salt and pepper to taste,"['pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,0.5,cup,honey,0.5 cup honey,"['cup', 'honey']",118.29412,mL
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,1.0,tablespoon,garlic powder,1 tablespoon garlic powder,"['tablespoon', 'garlic', 'powder']",14.786765,mL
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,1.0,packet,chicken granule,1 packet chicken bouillon granules,"['packet', 'chicken', 'bouillon', 'granule']",4.5,g
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,2.0,cup,flour,2 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",473.17648,mL
+https://www.allrecipes.com/recipe/9000/honey-fried-chicken/,Honey Fried Chicken,1.0,quart,vegetable oil,1 quart vegetable oil for frying,"['quart', 'vegetable', 'oil', 'frying']",946.35295,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,4.0,pound,chicken,"1 (3 pound) whole chicken, cut into 10 pieces","['3', 'pound', 'whole', 'chicken', 'cut', '10', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,,,salt,salt and ground black pepper to taste,"['ground', 'black', 'pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,1.0,quart,buttermilk,1 quart buttermilk,"['quart', 'buttermilk']",946.35295,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,2.0,tablespoon,hot sauce,2 tablespoons hot pepper sauce,"['tablespoon', 'hot', 'pepper', 'sauce']",29.57353,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,1.0,teaspoon,cayenne pepper,1 teaspoon cayenne pepper,"['teaspoon', 'cayenne', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,3.0,cup,flour,3 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",709.76472,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,1.0,tablespoon,cayenne pepper,1 tablespoon cayenne pepper,"['tablespoon', 'cayenne', 'pepper']",14.786765,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,2.0,teaspoon,garlic powder,2 teaspoons garlic powder,"['teaspoon', 'garlic', 'powder']",9.857843,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,,,salt,salt and ground black pepper to taste,"['ground', 'black', 'pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/196428/southern-spicy-fried-chicken/,Southern Spicy Fried Chicken,,,vegetable oil,vegetable oil for deep frying,"['oil', 'deep', 'frying']",997.0504317857143,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,4.0,pound,chicken,"1 whole chicken, cut into 8 pieces","['whole', 'chicken', 'cut', '8', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,1.0,cup,buttermilk,1 cup buttermilk,"['cup', 'buttermilk']",236.58824,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.25,cup,pickle brine,0.25 cup pickle brine,"['cup', 'pickle', 'brine']",59.14706,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,2.0,tablespoon,hot sauce,2 tablespoons Louisiana-style hot sauce,"['tablespoon', 'louisianastyle', 'hot', 'sauce']",29.57353,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,1.0,piece,egg,1 large egg,"['large', 'egg']",1.0,pc
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,2.0,cup,flour,2 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",473.17648,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,2.0,teaspoon,salt,2 teaspoons fine table salt,"['teaspoon', 'fine', 'table', 'salt']",9.857843,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.25,cup,butter,0.25 cup butter,"['cup', 'butter']",59.14706,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.25,cup,lard,0.25 cup lard,"['cup', 'lard']",59.14706,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,2.0,tablespoon,cayenne pepper,2 tablespoons cayenne pepper,"['tablespoon', 'cayenne', 'pepper']",29.57353,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,1.0,tablespoon,sugar,1 tablespoon packed light brown sugar,"['tablespoon', 'packed', 'light', 'brown', 'sugar']",14.786765,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.5,teaspoon,garlic powder,0.5 teaspoon garlic powder,"['teaspoon', 'garlic', 'powder']",2.46446075,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.5,teaspoon,salt,0.5 teaspoon kosher salt,"['teaspoon', 'kosher', 'salt']",2.46446075,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,0.5,teaspoon,black pepper,0.5 teaspoon freshly ground black pepper,"['teaspoon', 'freshly', 'ground', 'black', 'pepper']",2.46446075,mL
+https://www.allrecipes.com/recipe/254804/chef-johns-nashville-hot-chicken/,Chef John&#39;s Nashville Hot Chicken,1.0,cup,vegetable oil,"1 cup vegetable oil for frying, or as needed","['cup', 'vegetable', 'oil', 'frying', 'needed']",236.58824,mL
+https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/,Simple Malaysian Fried Chicken,4.0,pound,chicken,"1 (4 pound) whole chicken, cut into pieces","['4', 'pound', 'whole', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/,Simple Malaysian Fried Chicken,6.0,clove,garlic,"6 cloves garlic, chopped","['clove', 'garlic', 'chopped']",90.0,mL
+https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/,Simple Malaysian Fried Chicken,4.0,tablespoon,oyster sauce,4 tablespoons oyster sauce,"['tablespoon', 'oyster', 'sauce']",59.14706,mL
+https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/,Simple Malaysian Fried Chicken,2.0,tablespoon,curry powder,2 tablespoons curry powder,"['tablespoon', 'curry', 'powder']",29.57353,mL
+https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/,Simple Malaysian Fried Chicken,0.5,cup,vegetable oil,0.5 cup vegetable oil,"['cup', 'vegetable', 'oil']",118.29412,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.5,cup,flour,1.5 cups all-purpose flour,"['cup', 'allpurpose', 'flour']",354.88236,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,0.5,cup,bread crumb,0.5 cup Italian seasoned bread crumbs,"['cup', 'italian', 'seasoned', 'bread', 'crumb']",118.29412,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,tablespoon,italian seasoning,1 tablespoon Italian seasoning,"['tablespoon', 'italian', 'seasoning']",14.786765,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,2.0,teaspoon,salt,2 teaspoons salt,"['teaspoon', 'salt']",9.857843,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.5,teaspoon,garlic powder,1.5 teaspoons garlic powder,"['teaspoon', 'garlic', 'powder']",7.39338225,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,teaspoon,onion powder,1 teaspoon onion powder,"['teaspoon', 'onion', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,teaspoon,chili powder,1 teaspoon chili powder,"['teaspoon', 'chili', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,teaspoon,paprika,1 teaspoon paprika,"['teaspoon', 'paprika']",4.9289215,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,teaspoon,black pepper,1 teaspoon ground black pepper,"['teaspoon', 'ground', 'black', 'pepper']",4.9289215,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,4.0,pound,chicken,"1 (3 pound) broiler-fryer chicken, cut into pieces","['3', 'pound', 'broilerfryer', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,0.5,cup,milk,0.5 cup milk,"['cup', 'milk']",118.29412,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,1.0,piece,egg,1 egg,['egg'],1.0,pc
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,2.0,tablespoon,honey,2 tablespoons honey,"['tablespoon', 'honey']",29.57353,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,2.0,tablespoon,lemon,2 tablespoons fresh lemon juice,"['tablespoon', 'fresh', 'lemon', 'juice']",29.57353,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,0.5,teaspoon,garlic powder,0.5 teaspoon garlic powder,"['teaspoon', 'garlic', 'powder']",2.46446075,mL
+https://www.allrecipes.com/recipe/261544/juicy-honey-fried-chicken/,Juicy Honey Fried Chicken,,,vegetable oil,peanut oil for frying,"['oil', 'frying']",997.0504317857143,mL
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,0.66666668653488,cup,flour,0.66666668653488 cup all-purpose flour,"['cup', 'allpurpose', 'flour']",157.72549803391897,mL
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,2.0,teaspoon,garlic powder,2 teaspoons garlic powder,"['teaspoon', 'garlic', 'powder']",9.857843,mL
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,,,salt,salt and pepper to taste,"['pepper', 'taste']",13.467483612371135,g
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,4.0,pound,chicken,"1 (4 pound) chicken, cut into pieces","['4', 'pound', 'chicken', 'cut', 'piece']",1814.36932,g
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,1.0,quart,vegetable oil,"1 quart vegetable oil for frying, or as needed","['quart', 'vegetable', 'oil', 'frying', 'needed']",946.35295,mL
+https://www.allrecipes.com/recipe/8785/moms-old-fashioned-fried-chicken/,Mom&#39;s Old-Fashioned Fried Chicken,1.0,cup,sherry,1 cup sherry,"['cup', 'sherry']",236.58824,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,4.0,pound,chicken,"1 (3 pound) frying chicken, cut up","['3', 'pound', 'frying', 'chicken', 'cut']",1814.36932,g
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,2.0,cup,buttermilk,2 cups buttermilk,"['cup', 'buttermilk']",473.17648,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,1.0,teaspoon,garlic powder,1 teaspoon garlic powder,"['teaspoon', 'garlic', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,1.0,teaspoon,onion powder,1 teaspoon onion powder,"['teaspoon', 'onion', 'powder']",4.9289215,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,1.0,teaspoon,poultry seasoning,1 teaspoon poultry seasoning,"['teaspoon', 'poultry', 'seasoning']",4.9289215,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,1.0,teaspoon,celery seed,1 teaspoon celery seeds,"['teaspoon', 'celery', 'seed']",4.9289215,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,,,vegetable oil,Vegetable oil for deep-frying,"['oil', 'deepfrying']",997.0504317857143,mL
+https://www.allrecipes.com/recipe/216975/buttermilk-fried-chicken/,Buttermilk Fried Chicken,2.0,cup,kikkoman tempura batter mix,2 cups Kikkoman Tempura Batter Mix,"['cup', 'kikkoman', 'tempura', 'batter', 'mix']",473.17648,mL
