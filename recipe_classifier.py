@@ -148,4 +148,3 @@ else:
     
     col2.text('Cooking Directions')
     col2.write(display_df.iloc[0,9])
-    
